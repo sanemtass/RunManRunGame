@@ -1,5 +1,5 @@
 # RunManRunGame
-My first HyperCasual game prototype that I developed in about 4 days.
+My first HyperCasual game prototype that I developed in about 5 days.
 
 
 ![Ekran Resmi 2022-04-25 14 15 54](https://user-images.githubusercontent.com/101712831/165079182-3e9eaacb-930a-43eb-8d66-a77e7511604f.png)
